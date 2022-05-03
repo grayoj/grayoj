@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/website?label=grayoj.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/geraldabuchi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-I am a 17 year olf software and fullstack developer with interests in machine learning as well.
+I am a 17 year old software and fullstack developer with interests in machine learning as well.
 
 - 🔭 I’m currently working on Gitchat & private projects.
 - 🌱 I’m currently learning Elixir, TypeScript.
