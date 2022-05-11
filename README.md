@@ -5,7 +5,7 @@
 I am a 17 year old software and fullstack developer with interests in machine learning as well.
 
 - 🔭 I’m currently working on Gitchat & private projects.
-- 🌱 I’m currently learning Elixir, TypeScript.
+- 🌱 I’m currently learning Elixir, Java, Typescript.
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for collaborators on Gitchat.
 - 💬 Ask me about anything!
