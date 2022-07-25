@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gerald_Maduabuchi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://ng.linkedin.com/in/gerald-maduabuchi-61bb29233)
 
-Software Engineer. Entrepreneur.
+Software Engineer. 
 
 ### Github Statistics.
 
