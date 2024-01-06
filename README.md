@@ -1,1 +1,1 @@
-distributed systems, neovim, types & tensors.
+Distributed systems, Neovim, Types & Tensors.
